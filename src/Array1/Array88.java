@@ -137,6 +137,15 @@ public class Array88 {
 //		d
 //		s	
 		
+		
+		
+		char[] ar={'c', 'g'};
+		
+		for(char cc:ar)
+		{
+			System.out.println(cc);
+		}
+		
 
 	}
 
