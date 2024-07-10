@@ -1,4 +1,4 @@
-package dailyprac;
+	package dailyprac;
 
 public class Stringcountthewords {
 	
