@@ -141,7 +141,7 @@ public class Array88 {
 		
 		char[] ar={'c', 'g'};
 		
-		for(char cc:ar)
+		for(char cc:ar)	
 		{
 			System.out.println(cc);
 		}

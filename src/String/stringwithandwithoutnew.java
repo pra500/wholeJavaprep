@@ -16,7 +16,10 @@ public class stringwithandwithoutnew {
 		//heap always big, pool always small
 		
 		//need to chk notes again
-				
+		
+		
+		//always == ll compare by address, equals ll compare by value
+					
 		
 		
 		
